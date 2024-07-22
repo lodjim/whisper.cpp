@@ -372,6 +372,7 @@ static const std::map<std::string, std::pair<int, std::string>> g_lang = {
     { "jw",  { 97,  "javanese",       } },
     { "su",  { 98,  "sundanese",      } },
     { "yue", { 99,  "cantonese",      } },
+    { "wo",   {100,  "wolof",         } }
 };
 
 // [EXPERIMENTAL] Token-level timestamps with DTW
